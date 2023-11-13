@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Mastering Hypothesis Testing in Machine Learning: A Beginner's Guide 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A guide for beginners for learning hypothesis testing which is useful in machine learning.",
+    url: "https://ankitanandmastery.hashnode.dev/mastering-hypothesis-testing-in-machine-learning-a-beginners-guide",
   },
   {
-    title: "Web Development for Beginners",
+    title: "E-Commerce Website Prototype",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A prototype of an e-commerce website created using HTML, CSS, and JavaScript.",
+    url: "https://github.com/AnkitAnandMastery17/Advance_E_Commerce_website",
   },
   {
     title: "My Resume Site",
@@ -48,6 +48,12 @@ const projectList = [
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
+    {
+      title: "My Resume Site",
+    description:
+      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    },
   {
     title: "GitHub Codespaces and github.dev",
     description:
